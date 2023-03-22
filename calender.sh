@@ -34,3 +34,4 @@ done
 ;;
 esac
 read p
+clear
