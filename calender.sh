@@ -34,4 +34,4 @@ done
 ;;
 esac
 read p
-clear/
+clear
